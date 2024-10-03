@@ -1,4 +1,5 @@
-Previsão do Tempo
+**Previsão do Tempo**
+
 Este repositório contém uma aplicação de previsão do tempo que permite a consulta em tempo real das condições meteorológicas de diversas cidades ao redor do mundo. Utilizando dados de uma API pública, a aplicação fornece informações precisas e atualizadas sobre temperatura, umidade, velocidade do vento e condições climáticas.
 
 🚀 Funcionalidades
